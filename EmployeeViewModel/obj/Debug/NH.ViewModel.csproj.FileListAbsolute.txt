@@ -1,0 +1,21 @@
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\bin\Debug\Park.ViewModel.dll
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\bin\Debug\Park.ViewModel.pdb
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\bin\Debug\Park.Entities.dll
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\bin\Debug\Park.Entities.pdb
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\obj\Debug\NH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\obj\Debug\Park.ViewModel.dll
+D:\Nursing Home\Angular Architecture\EmployeeViewModel\obj\Debug\Park.ViewModel.pdb
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\bin\Debug\Park.ViewModel.dll
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\bin\Debug\Park.ViewModel.pdb
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\bin\Debug\Park.Entities.dll
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\bin\Debug\Park.Entities.pdb
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\obj\Debug\NH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\obj\Debug\Park.ViewModel.dll
+D:\Day User\Imran\NursingHomeApp\EmployeeViewModel\obj\Debug\Park.ViewModel.pdb
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\bin\Debug\Park.ViewModel.dll
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\bin\Debug\Park.ViewModel.pdb
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\obj\Debug\NH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\obj\Debug\Park.ViewModel.dll
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\obj\Debug\Park.ViewModel.pdb
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\bin\Debug\Park.Entities.dll
+D:\Personal\NursingHomeAppSVN\EmployeeViewModel\bin\Debug\Park.Entities.pdb

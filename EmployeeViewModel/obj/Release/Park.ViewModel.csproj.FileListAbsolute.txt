@@ -1,0 +1,6 @@
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Release\Park.ViewModel.dll
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Release\Park.ViewModel.pdb
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Release\Park.Entities.pdb
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Release\Park.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Release\Park.ViewModel.dll
+C:\Users\subhashr\Desktop\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Release\Park.ViewModel.pdb
